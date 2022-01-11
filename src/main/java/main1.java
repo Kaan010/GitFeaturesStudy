@@ -8,4 +8,7 @@ public class main1 {
     public void function2(){
         System.out.println("function2");
     }
+    public void function3(){
+        System.out.println("function3");
+    }
 }
